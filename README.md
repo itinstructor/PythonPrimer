@@ -1,5 +1,5 @@
 # Python Class Book
-The book for INFO-1255 Python at [Weatern Nebraska Community College](https://www.wncc.edu)
+The book for INFO-1255 Python at [Western Nebraska Community College](https://www.wncc.edu)
 
 - Python Primer Chapters - pdf
 - Notebooks - Juypter Notebooks
